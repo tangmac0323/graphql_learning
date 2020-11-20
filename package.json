@@ -1,0 +1,25 @@
+{
+  "name": "graphql_learning",
+  "version": "1.0.0",
+  "description": "study demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangmac0323/graphql_learning.git"
+  },
+  "author": "Mengtao Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangmac0323/graphql_learning/issues"
+  },
+  "homepage": "https://github.com/tangmac0323/graphql_learning#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0",
+    "lodash": "^4.17.20"
+  }
+}
